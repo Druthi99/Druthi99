@@ -40,6 +40,8 @@ Hi 👋, I'm Druthi S J</h1>
 ### 📌 Featured Projects
 - **[ShopNest Sales & Revenue Dashboard](#)** — *Power BI, DAX*
   A 9-page Power BI report analyzing 99K+ e-commerce orders across 71 product categories. Built 26 DAX measures spanning sales, delivery, satisfaction, payments, geography, and YoY performance to surface top/bottom-performing categories and delivery-risk hotspots for inventory and logistics decisions.
+ - **[Sales Dashboard – Restaurant Delivery Analytics](#)** — Power BI, DAX
+A 4-page Power BI report analyzing 86.8K+ food delivery orders across 10 restaurants in 4 cities. Built DAX measures (AOV, Net Revenue, Total Orders) spanning sales, delivery time, and customer ratings to surface city- and restaurant-level performance trends for operational and revenue decisions.
 
 
 
