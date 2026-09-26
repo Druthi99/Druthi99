@@ -55,7 +55,7 @@ Hi 👋, I'm Druthi S J</h1>
 
  - ### ShopNest Sales & Revenue Dashboard
 
-**Code:** [ShopNest Dashboard.pbix](https://github.com/Druthi99/REPO-NAME/blob/main/ShopNest_Dashboard.pbix)
+**Code:** [ShopNest Dashboard.pbix](https://drive.google.com/file/d/1cAZVHI43CJZMlrU-03Lri086A90pLLDp/view?usp=sharing)
 
 **Goal:** To analyze e-commerce sales, delivery performance, and customer satisfaction across a large multi-category marketplace, and surface which categories, regions, and operational factors drive revenue and risk.
 
