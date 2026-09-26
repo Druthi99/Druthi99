@@ -52,8 +52,20 @@ Hi 👋, I'm Druthi S J</h1>
 **Technology:** Power BI, DAX.
 
 **Results:** Delhi generated the highest revenue (₹1.34Cr) among the 4 cities, and Barbeque Nation was the top-performing restaurant by revenue. Average delivery+prep time was ~33 minutes. Notably, delivery time showed almost no correlation with customer rating (avg. rating held steady around 3.5 across all cities), suggesting speed alone wasn't driving satisfaction.
- - **[Sales Dashboard – Restaurant Delivery Analytics](#)** — Power BI, DAX
-A 4-page Power BI report analyzing 86.8K+ food delivery orders across 10 restaurants in 4 cities. Built DAX measures (AOV, Net Revenue, Total Orders) spanning sales, delivery time, and customer ratings to surface city- and restaurant-level performance trends for operational and revenue decisions.
+
+ - ### ShopNest Sales & Revenue Dashboard
+
+**Code:** [ShopNest Dashboard.pbix](https://github.com/Druthi99/REPO-NAME/blob/main/ShopNest_Dashboard.pbix)
+
+**Goal:** To analyze e-commerce sales, delivery performance, and customer satisfaction across a large multi-category marketplace, and surface which categories, regions, and operational factors drive revenue and risk.
+
+**Description:** The project analyzed 99,441 orders (112,650 order items) from 3,095 sellers across 71 product categories, spanning Sep 2016 – Oct 2018. Data covered orders, order items, payments, reviews, products, customers, sellers, and geolocation. Work involved building a relational data model across 8 linked tables, writing 26 DAX measures (revenue, YoY growth, quarterly sales, delayed-order tracking, payment method mix, review breakdowns), and designing a 9-page interactive report covering category performance, delivery status, seasonal trends, payment methods, and state-wise sales (map + chart views).
+
+**Skills:** data modeling, DAX, KPI design, dashboard/report design, trend & delivery-risk analysis.
+
+**Technology:** Power BI, DAX.
+
+**Results:** **Results:** Total revenue reached approx. $13.6M (approx. $15.8M incl. freight). Of 99,441 orders, 88,649 (89%) were delivered on time, while 7,827 (8%) were delayed and 2,965 (3%) were not delivered — highlighting delivery risk as a key operational issue. Average customer rating was 4.0/5, with 64% of reviews being 5-star, though the top 10 categories by revenue accounted for a large share of total sales, pointing to concentration risk.
 
 
 
