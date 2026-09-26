@@ -12,12 +12,13 @@ Hi 👋, I'm Druthi S J</h1>
 - 🌱 Currently building my data analytics portfolio and sharpening my SQL, Python, and visualization skills
 - 💬 Open to Data Analyst / Junior Data Analyst opportunities — feel free to connect!
 - 📫 Reach me at: druthisj@gmail.com | https://www.linkedin.com/in/druthi-s-j-4a135220a/
+- [My CV](https://drive.google.com/file/d/156zMzy1HUpjO-6HjKwPlHOETDuvBLQuq/view?usp=sharing) 
 
 ---
 
 ### 🎓 Certifications
-- **Data Analysis Classroom Programme** — Skillovilla, 2026
-- **AI Mastery Programme** — Skillovilla, 2026
+- **[Data Analysis Classroom Programme](https://drive.google.com/file/d/1wtAQJ0HbDiGFRXutARVoG4A7HfvOjb-w/view?usp=drive_link))** — Skillovilla, 2026
+- **[AI Mastery Programme](https://drive.google.com/file/d/16iBdkx6jkuHbvJht8nXL4OmWNEr5nk4X/view?usp=sharing)** — Skillovilla, 2026
 
 ---
 
@@ -38,8 +39,19 @@ Hi 👋, I'm Druthi S J</h1>
 ---
 
 ### 📌 Featured Projects
-- **[ShopNest Sales & Revenue Dashboard](#)** — *Power BI, DAX*
-  A 9-page Power BI report analyzing 99K+ e-commerce orders across 71 product categories. Built 26 DAX measures spanning sales, delivery, satisfaction, payments, geography, and YoY performance to surface top/bottom-performing categories and delivery-risk hotspots for inventory and logistics decisions.
+- ### Sales Dashboard – Restaurant Delivery Analytics
+
+**Code:** [Sales Dashboard.pbix](https://github.com/Druthi99/My-First-Project/blob/main/Sales%20Dashboard.pbix)
+
+**Goal:** To analyze restaurant order and delivery performance and identify which cities, restaurants, and operational factors drive revenue and customer satisfaction.
+
+**Description:** The project analyzed 86,894 food delivery orders from 10 restaurants across 4 cities (May–Aug 2015). The data spanned order revenue, discounts, delivery and preparation time, and customer ratings. Work involved building a relational data model across Order, Customer, and City tables, creating DAX measures (Total Orders, Net Revenue, AOV), and designing a 4-page interactive report (Summary, City, Month, Restaurant) with slicers, KPI cards, trend charts, and a geographic map.
+
+**Skills:** data modeling, DAX, KPI design, dashboard/report design, trend analysis.
+
+**Technology:** Power BI, DAX.
+
+**Results:** Delhi generated the highest revenue (₹1.34Cr) among the 4 cities, and Barbeque Nation was the top-performing restaurant by revenue. Average delivery+prep time was ~33 minutes. Notably, delivery time showed almost no correlation with customer rating (avg. rating held steady around 3.5 across all cities), suggesting speed alone wasn't driving satisfaction.
  - **[Sales Dashboard – Restaurant Delivery Analytics](#)** — Power BI, DAX
 A 4-page Power BI report analyzing 86.8K+ food delivery orders across 10 restaurants in 4 cities. Built DAX measures (AOV, Net Revenue, Total Orders) spanning sales, delivery time, and customer ratings to surface city- and restaurant-level performance trends for operational and revenue decisions.
 
