@@ -5,14 +5,15 @@ Hi 👋, I'm Druthi S J</h1>
 
 ---
 
-### 🚀 About Me
-- 📊 Transitioning from **Operations Leadership** into **Data Analytics**, bringing real-world business context to data-driven decision making
-- 🎓 Certified in **Data Analytics** and **Artificial Intelligence**
-- 🔧 5+ years leading operations teams — skilled in process optimization, problem-solving, and cross-functional collaboration
-- 🌱 Currently building my data analytics portfolio and sharpening my SQL, Python, and visualization skills
-- 💬 Open to Data Analyst / Junior Data Analyst opportunities — feel free to connect!
-- 📫 Reach me at: druthisj@gmail.com | https://www.linkedin.com/in/druthi-s-j-4a135220a/
-- [My CV](https://drive.google.com/file/d/156zMzy1HUpjO-6HjKwPlHOETDuvBLQuq/view?usp=sharing) 
+🚀 About Me
+📊 Transitioning from Operations Leadership into Data Analytics, bringing real-world business context to data-driven decision making
+🎓 Certified in Data Analytics and Artificial Intelligence
+🔧 5+ years in operations leadership (team lead) — process optimization, problem-solving, cross-functional collaboration
+📈 Analytics experience so far: certification coursework and portfolio projects (see below)
+🌱 Currently building my portfolio and learning SQL and Python (work will be added to this profile as it is completed)
+💬 Open to Data Analyst / Junior Data Analyst opportunities — feel free to connect!
+📫 Reach me at: druthisj@gmail.com | LinkedIn
+My CV
 
 ---
 
