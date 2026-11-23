@@ -1,5 +1,3 @@
-#About Me
-
 Hi 👋, I'm Druthi S J</h1>
 <h3 align="center">Data Analyst | Operations Team Lead | Certified in Data Analytics & AI</h3>
 
