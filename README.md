@@ -1,9 +1,9 @@
-Hi 👋, I'm Druthi S J</h1>
+Hi 👋, I'm Druthi S J
 <h3 align="center">Data Analyst | Operations Team Lead | Certified in Data Analytics & AI</h3>
 
 ---
 
-### 🚀 About Me
+# 🚀 About Me
 - 📊 Transitioning from **Operations Leadership** into **Data Analytics**, bringing real-world business context to data-driven decision making
 - 🎓 Certified in **Data Analytics** and **Artificial Intelligence**
 - 🔧 5+ years leading operations teams — skilled in process optimization, problem-solving, and cross-functional collaboration
@@ -15,7 +15,7 @@ Hi 👋, I'm Druthi S J</h1>
 ---
 
 ### 🎓 Certifications
-- **[Data Analysis Classroom Programme](https://drive.google.com/file/d/1wtAQJ0HbDiGFRXutARVoG4A7HfvOjb-w/view?usp=drive_link))** — Skillovilla, 2026
+- **[Data Analysis Classroom Programme](https://drive.google.com/file/d/1wtAQJ0HbDiGFRXutARVoG4A7HfvOjb-w/view?usp=drive_link)** — Skillovilla, 2026
 - **[AI Mastery Programme](https://drive.google.com/file/d/16iBdkx6jkuHbvJht8nXL4OmWNEr5nk4X/view?usp=sharing)** — Skillovilla, 2026
 
 ---
@@ -49,7 +49,7 @@ Hi 👋, I'm Druthi S J</h1>
 
 **Technology:** Power BI, DAX.
 
-**Results:** Delhi generated the highest revenue (₹1.34Cr) among the 4 cities, and Barbeque Nation was the top-performing restaurant by revenue. Average delivery+prep time was ~33 minutes. Notably, delivery time showed almost no correlation with customer rating (avg. rating held steady around 3.5 across all cities), suggesting speed alone wasn't driving satisfaction.
+**Results:** Delhi generated the highest revenue (₹1.34Cr) among the 4 cities, and Barbeque Nation was the top-performing restaurant by revenue. Average delivery+prep time was ~33 minutes. Notably, delivery time and customer rating were essentially uncorrelated (Pearson r = -0.004, n = 86,894), suggesting delivery speed alone did not explain satisfaction.
 
  - ### ShopNest Sales & Revenue Dashboard
 
@@ -63,7 +63,7 @@ Hi 👋, I'm Druthi S J</h1>
 
 **Technology:** Power BI, DAX.
 
-**Results:** **Results:** Total revenue reached approx. $13.6M (approx. $15.8M incl. freight). Of 99,441 orders, 88,649 (89%) were delivered on time, while 7,827 (8%) were delayed and 2,965 (3%) were not delivered — highlighting delivery risk as a key operational issue. Average customer rating was 4.0/5, with 64% of reviews being 5-star, though the top 10 categories by revenue accounted for a large share of total sales, pointing to concentration risk.
+**Results:** Total revenue reached approx. $13.6M (approx. $15.8M incl. freight). Of 99,441 orders, 88,649 (89%) were delivered on time, while 7,827 (8%) were delayed and 2,965 (3%) were not delivered — highlighting delivery risk as a key operational issue. Average customer rating was 4.0/5, with 64% of reviews being 5-star, though the top 10 categories by revenue accounted for a large share of total sales, pointing to concentration risk.
 
 
 
